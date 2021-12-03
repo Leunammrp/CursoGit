@@ -1,1 +1,5 @@
-Documento Javascript
+// Documento Javascript
+
+function saludo(){
+	alert ("Hola alumnos");
+}
